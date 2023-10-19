@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{613E7750-FC39-4DAD-B356-3ECA3A419264}</ProjectGuid>
+    <ProjectGuid>{0CFD8FBF-6E3D-476C-A6E0-C574683F6A60}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.GorovenkoGV.Sprint2.Task1.V28.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.GorovenkoGV.Sprint2.Task1.V28.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.GorovenkoGV.Sprint2.Task2.V9.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.GorovenkoGV.Sprint2.Task2.V9.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -39,8 +39,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="tyuiu.cources.programming.interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="tyuiu.cources.programming.interfaces">
       <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
